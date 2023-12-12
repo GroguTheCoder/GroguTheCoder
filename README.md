@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jonathan! <br/><a href="https://github.com/GroguTheCoder"> <a href="https://www.linkedin.com/in/jonathan-m-939555224/">Cybersecurity Professional / Threat Hunter in training</a> 
 
-<h2>👨‍💻 Skill Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation]
