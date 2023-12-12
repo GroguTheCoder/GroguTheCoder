@@ -9,11 +9,11 @@
 
 <h2>📄 Certifications:</h2>
 
-- [AWS Cloud Practioner](link)
-- [Google Cybersecurity Professional](link)
-- [CompTIA ITF+](link)
-- [CompTIA Network+](link)
-- [CompTIA Security+](link)
+- [AWS Cloud Practioner](https://aw.certmetrics.com/amazon/public/verification.aspx)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/6PQ9TQATWR69?trk=public_profile_see-credential)
+- [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 <h2> 🤳 Connect with me:</h2>
 
