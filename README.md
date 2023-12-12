@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
-<h2> Certifications </h2>
+<h2>📄 Certifications:</h2>
 
 - [AWS Cloud Practioner](link)
 - [Google Cybersecurity Professional](link)
@@ -17,8 +17,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="GroguTheCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jonathan Montoya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/jonathan-m-939555224/
