@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/GroguTheCoder"> <a href="https://www.linkedin.com/in/jonathan-m-939555224/">Cybersecurity Professional / Threat Hunter in training</a> 
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/GroguTheCoder"> <a href="https://www.linkedin.com/in/jonathan-m-939555224/">Cybersecurity Professional / Threat Hunter </a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
