@@ -3,9 +3,17 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation]
+  - [Azure/Sentinel Attack Map]
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - [Offensive Recon Scanner]
+- <b>Cyber Treat Presentations<b>
+  - [Weekly zoom presentations with PowerPoint]
+- <b>Bash<b>
+  - [Port Scanner]
+- <b>Nessus Scanning Labs<b>
+  - [PJPT Course]
+- <b>Coursework Screenshots<b>
+  - [Various Python, Bash, Wireshark, XML and SQL mini tasks]
 
 <h2>📄 Certifications:</h2>
 
@@ -14,6 +22,8 @@
 - [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [CompTIA CySA+](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [CompTIA PenTest+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 <h2> 🤳 Connect with me:</h2>
 
