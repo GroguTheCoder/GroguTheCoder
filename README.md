@@ -2,18 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Azure/Sentinel Attack Map]
-- <b>Python</b>
-  - [Offensive Recon Scanner]
+- <b>Azure/Sentinel Attack Map</b>
+  - PowerShell
 - <b>Cyber Treat Presentations</b>
-  - [Weekly zoom presentations with PowerPoint]
-- <b>Bash</b>
-  - [Port Scanner]
-- <b>Nessus Scanning Labs</b>
-  - [PJPT Course]
-- <b>Coursework Screenshots</b>
-  - [Various Python, Bash, Wireshark, XML and SQL mini tasks]
+  - Weekly zoom presentations with PowerPoint
+- <b>SIEM Labs</b>
+  - Splunk, Suricata
+- <b>Coding exercises</b>
+  - Various Python, Bash, XML and SQL mini tasks
 
 <h2>📄 Certifications:</h2>
 
