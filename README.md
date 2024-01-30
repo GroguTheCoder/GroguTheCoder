@@ -6,13 +6,13 @@
   - [Azure/Sentinel Attack Map]
 - <b>Python</b>
   - [Offensive Recon Scanner]
-- <b>Cyber Treat Presentations<b>
+- <b>Cyber Treat Presentations</b>
   - [Weekly zoom presentations with PowerPoint]
-- <b>Bash<b>
+- <b>Bash</b>
   - [Port Scanner]
-- <b>Nessus Scanning Labs<b>
+- <b>Nessus Scanning Labs</b>
   - [PJPT Course]
-- <b>Coursework Screenshots<b>
+- <b>Coursework Screenshots</b>
   - [Various Python, Bash, Wireshark, XML and SQL mini tasks]
 
 <h2>📄 Certifications:</h2>
