@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure/Sentinel Attack Map</b>
-  - PowerShell
+  - PowerShell script tracking failed RDP logins
 - <b>Cyber Treat Presentations</b>
   - Weekly zoom presentations with PowerPoint
 - <b>SIEM Labs</b>
