@@ -29,4 +29,4 @@
 
 [linkedin]: https://linkedin.com/in/jonathan-m-939555224/
 
-[discord]: https://discord.com/groguthecoder 
+[discord]: discordapp.com/users/groguthecoder 
